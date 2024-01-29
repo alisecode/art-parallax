@@ -2,7 +2,7 @@
 //  ArtParallaxCarouselApp.swift
 //  ArtParallaxCarousel
 //
-//  Created by Алиса Третьякова on 26.01.2024.
+//  Created by Alisa Serhiienko on 26.01.2024.
 //
 
 import SwiftUI
